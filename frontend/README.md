@@ -20,13 +20,15 @@ C:\Users\abhay>ng version
                 |___/
 
 
-Angular CLI: 11.1.2
+Angular CLI: 17.2.2
 Node: 20.11.1
+Package Manager: npm 10.2.4
 OS: win32 x64
 
-Angular: undefined
-...
-Ivy Workspace: <error>
+Angular: 17.2.3
+... animations, common, compiler, compiler-cli, core, forms
+... platform-browser, platform-browser-dynamic, platform-server
+... router
 
 Package                      Version
 ------------------------------------------------------
